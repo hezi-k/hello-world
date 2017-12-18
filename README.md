@@ -1,2 +1,3 @@
 # hello-world
-Don't really know why I'm doing this
+It's Hez. 
+Im just discovering github -- i think it will be pretty cool....
